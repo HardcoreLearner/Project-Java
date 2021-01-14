@@ -19,5 +19,5 @@ Selon l'énonce nous devons :
   
   - Notre package doit s'appeler agence
   
-  - On faut mettre le package, le rapport et la base de données dans un dosser nommé groupe_n où n est le numéro du groupe
+  - On doit mettre le package, le rapport et la base de données dans un dossier nommé groupe_n où n est le numéro du groupe
 
