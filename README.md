@@ -5,7 +5,7 @@ de la LP3 Réseau et Services de l'ESMT.
 
 Selon l'énonce nous devons :
 
-  - Utiliser les interfaces graphiques graphiques, les JDBC pour le développement de l'application
+  - Utiliser les interfaces graphiques graphiques, les JDBCs pour le développement de l'application
   
   - On se connecte avec avec un login et un mot de passe déjà définis dans une table de bases de données
   
